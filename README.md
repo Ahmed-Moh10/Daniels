@@ -7,7 +7,7 @@ This project showcases a clean UI design with smooth navigation and responsive l
 
 ## 🌐 Live Preview
 
-*(Add your live demo link here if deployed on Vercel or GitHub Pages)*
+*(https://daniels-pi.vercel.app/)*
 
 ---
 
